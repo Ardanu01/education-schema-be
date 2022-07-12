@@ -1,0 +1,6 @@
+Test 3 Back End
+
+- select * from kawahedukasi where gaji=10000000;
+- select * from kawahedukasi where gaji=6500000;
+- select *  from kawahedukasi where kelas='frontend';
+- select * from kawahedukasi where kelas='frontend' and nilai=100 and jumlah_kehadiran=150;
